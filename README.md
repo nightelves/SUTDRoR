@@ -1,5 +1,6 @@
 SUTDRoR
 =======
 
-Some Ruby (on Rails) stuff\n
+Some Ruby (on Rails) stuff
+
 wordChecker can only be run on a Mac!
